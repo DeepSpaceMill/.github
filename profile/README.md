@@ -1,9 +1,27 @@
-（施工中）
+# 末语 - 跨平台视觉小说引擎
 
-引擎仓库尚未公开，不是删库跑路了！！
-可以先访问上面的官网链接查看先行文档，或者加入相关聊天群组获得最新消息！
+引擎仓库：[https://github.com/Icemic/moyu](https://github.com/Icemic/moyu)
 
-**声明**
+官网：[https://momoyu.ink](https://momoyu.ink)
 
-项目尚未正式发布。
-除非经书面许可，任何第三方不得以合作、联动、赞助、已接入、官方支持等名义对外宣传本项目，亦不得使用本项目名称、商标或 Logo 暗示关联关系。
+访问官网查看文档，或者加入相关聊天群组获得最新消息！
+
+---
+
+# 末語（モユ） - クロスプラットフォーム・ビジュアルノベルエンジン
+
+エンジンリポジトリ：[https://github.com/Icemic/moyu](https://github.com/Icemic/moyu)
+
+公式サイト：[https://momoyu.ink](https://momoyu.ink)
+
+公式サイトでドキュメントを確認するか、関連するチャットグループに参加して最新情報を入手してください！
+
+---
+
+# Moyu - Cross-platform Visual Novel Engine
+
+Engine Repository: [https://github.com/Icemic/moyu](https://github.com/Icemic/moyu)
+
+Official Website: [https://momoyu.ink](https://momoyu.ink)
+
+Check the documentation on the official website or join the relevant chat groups to get the latest updates!
